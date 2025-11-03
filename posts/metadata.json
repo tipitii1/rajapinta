@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "title": "Miksi aloitin tämän sivun",
+      "url": "posts/miksi-aloitin.html",
+      "date": "2025-11-03",
+      "tags": [
+        "ajatus",
+        "aloitus"
+      ],
+      "excerpt": "Tämä sivu on muistiinpanovihko, ei megafoni. Kirjoitan hiljaa ja suomeksi."
+    },
+    {
+      "title": "Tekoäly on työkalu, ei jumala",
+      "url": "posts/tyokalu-ei-jumala.html",
+      "date": "2025-11-03",
+      "tags": [
+        "filosofia",
+        "käyttö"
+      ],
+      "excerpt": "Hyödyllisyys ennen ihmismäisyyttä. Kun muistaa tämän, pelko vähenee ja selkeys kasvaa."
+    },
+    {
+      "title": "Kun kone hiljenee",
+      "url": "posts/kun-kone-hiljenee.html",
+      "date": "2025-11-03",
+      "tags": [
+        "hiljaisuus"
+      ],
+      "excerpt": "Hiljaisuus on rajapinta, jossa huomio palaa meille. Kone on nopea. Ihminen kuuntelee."
+    },
+    {
+      "title": "Huomion talous ja hiljaisuus",
+      "url": "posts/huomion-talous.html",
+      "date": "2025-11-03",
+      "tags": [
+        "huomio",
+        "verkko"
+      ],
+      "excerpt": "Jos kaikki on sisältöä, mikään ei ole merkitystä. Siksi tämä sivu on lyhyt."
+    },
+    {
+      "title": "Mistä virhe syntyy",
+      "url": "posts/mista-virhe-syntyy.html",
+      "date": "2025-11-03",
+      "tags": [
+        "virhe",
+        "tarkistus"
+      ],
+      "excerpt": "Virhe syntyy kahdesta suunnasta: kun ihminen toivoo liikaa tai kun kone tietää liian vähän."
+    }
+  ]
+}
